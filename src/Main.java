@@ -18,5 +18,5 @@ public class Main {
         frame.addWindowListener(new WindowAdapter() {  });
         frame.setVisible(true);
     }
-
+    
 }
